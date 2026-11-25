@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Fridge Roast: One Line, Biggest Laugh](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb).
 
-> My smart fridge beeps at 2 a.m. to warn me I'm out of milk — thanks, now I'm awake, still milkless, and being judged by an appliance.
+> My smart fridge woke me at 2 a.m. to say we're out of milk — thanks, now I'm awake, still milkless, and being judged by an appliance.
 
 ## Run
 

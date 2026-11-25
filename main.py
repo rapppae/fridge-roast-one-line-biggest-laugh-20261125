@@ -6,7 +6,7 @@ No trailing newline is written, per the bounty text format.
 
 import os
 
-ENTRY = "My smart fridge beeps at 2 a.m. to warn me I'm out of milk — thanks, now I'm awake, still milkless, and being judged by an appliance."
+ENTRY = "My smart fridge woke me at 2 a.m. to say we're out of milk — thanks, now I'm awake, still milkless, and being judged by an appliance."
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")
